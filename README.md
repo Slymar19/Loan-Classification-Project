@@ -37,7 +37,7 @@ Visual Insights From Exploratory Analysis
 3.Credit Score VS loan Amount vs Loan Status
 
 
-![Credit Score VS loan Amount vs Loan Status](images/Credit_Scores_Loan_amount_Loan_Status.png)
+![Credit Score VS loan Amount vs Loan Status](images/Credit_Scores_Loan_amount_Loan_status.png)
 
 
 4.Feature Importance (Random Forest Classifier Model) 
