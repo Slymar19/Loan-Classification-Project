@@ -31,9 +31,19 @@ Visual Insights From Exploratory Analysis
 2.Income Distribution 
 
 
+![Income Distribution](images/Income_Distribution.png)
+
+
 3.Credit Score VS loan Amount vs Loan Status
 
+
+![Credit Score VS loan Amount vs Loan Status](images/Credit_Score_loan_Amount_Loan_Status.png)
+
+
 4.Feature Importance (Random Forest Classifier Model) 
+
+
+![Feature Importance (Random Forest Classifier Model) ](images/Feature_Importance.png)
 
 
 Methodology  
