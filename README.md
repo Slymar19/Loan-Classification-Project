@@ -78,3 +78,6 @@ Key Insights
 	
 Conclusion 
 This project highlights how machine learning can efficiently predict loan approvals and provide actionable insights for financial decision-making.
+
+## Skills/Tools Used:  
+Python, pandas, scikit-learn, seaborn, confusion matrices.  
