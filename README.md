@@ -24,7 +24,7 @@ Key Features:
 Visual Insights From Exploratory Analysis
 
 1.Loan Approvals by Education Level 
-![Loan Status and Education Level](images/Loan_Approvals_by_Education_Level.png)
+![Loan Status and Education Level](images/Loan Approvals by Education Level.png)
 
 2.Income Distribution 
 
